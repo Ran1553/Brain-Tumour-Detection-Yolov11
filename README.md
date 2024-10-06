@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognition
+# Brain-Tumour-Detection-Yolov11
